@@ -1,4 +1,3 @@
-### Hi there 👋
-I'm Dreiton, currently be learning programming
+### Java Developer
 
 📫 How to reach me: dreiton.washington@gmail.com
